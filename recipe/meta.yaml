@@ -30,7 +30,10 @@ test:
 about:
   home: http://ipython.org
   license: BSD 3-Clause
-  summary: Vestigial utilities from IPython
+  license_file: COPYING.md
+  summary: vestigial utilities from IPython
+  description: |
+    General purpose utilities.
 
 extra:
   recipe-maintainers:

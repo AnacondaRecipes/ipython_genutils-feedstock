@@ -32,6 +32,9 @@ about:
   summary: vestigial utilities from IPython
   description: |
     General purpose utilities.
+  doc_url: http://ipython.org/documentation.html
+  dev_url: https://github.com/ipython/ipython
+  dev_source_url: https://github.com/ipython/ipython/tree/master/docs
 
 extra:
   recipe-maintainers:
